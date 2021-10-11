@@ -6,4 +6,6 @@
 - For each element in the list there is a delete button when click on it the book will delete  
 
 ### The output should look like this with your favorite book 
-![Warmeup output](Warmeup.png)
+<kbd>
+<img src="Warmeup.png" >
+</kbd>
